@@ -15,6 +15,7 @@
 #### Prerequisites
 
 - [Rhino3D](https://www.rhino3d.com/)
+- 
 - [Grasshopper](https://www.grasshopper3d.com/)
 
 #### Installation
@@ -39,10 +40,14 @@ Explore the design files and algorithms to understand the parametric tower.
 Contributions are welcome! If you'd like to enhance the project or fix issues, please follow these steps:
 
 Fork the project.
+
 Create your feature branch
+
 Commit your changes
-Push to the branch:re.
-Open a pull request.
+
+Push to the branch
+
+Open a pull request
 
 #### License
 
@@ -53,6 +58,7 @@ This project is licensed under the MIT License.
 Thank you to the Rhino3D and Grasshopper communities for their invaluable resources and support.
 
 #### Contact
+
 For inquiries and feedback, please contact
 
 Happy designing!
