@@ -39,6 +39,12 @@ Explore the design files and algorithms to understand the parametric tower.
 
 2- Navigate to the Grasshopper scripts to understand the parametric algorithms.
 
+
+
+https://github.com/IbrahimXXs/Parametric-Tower-Using-Rhino3D-Grasshopper/assets/146712453/d34720e5-5e72-454c-a993-fc6f9c948d03
+
+
+
 #### Contributing
 
 Contributions are welcome! If you'd like to enhance the project or fix issues, please follow these steps:
@@ -66,3 +72,7 @@ Thank you to the Rhino3D and Grasshopper communities for their invaluable resour
 For inquiries and feedback, please contact
 
 Happy designing!
+
+![200w](https://github.com/IbrahimXXs/Parametric-Tower-Using-Rhino3D-Grasshopper/assets/146712453/406cc2bc-2600-4182-b205-d8b670b9df1a)
+
+
