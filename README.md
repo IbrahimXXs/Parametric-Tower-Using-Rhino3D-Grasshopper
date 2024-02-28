@@ -23,3 +23,36 @@
 
    ```bash
    git clone
+
+2. Open the project in Rhino3D and Grasshopper.
+
+Explore the design files and algorithms to understand the parametric tower.
+
+#### Usage
+
+1- Open the Rhino3D project file to view the overall structure.
+
+2- Navigate to the Grasshopper scripts to understand the parametric algorithms.
+
+#### Contributing
+
+Contributions are welcome! If you'd like to enhance the project or fix issues, please follow these steps:
+
+Fork the project.
+Create your feature branch
+Commit your changes
+Push to the branch:re.
+Open a pull request.
+
+#### License
+
+This project is licensed under the MIT License.
+
+#### Acknowledgments
+
+Thank you to the Rhino3D and Grasshopper communities for their invaluable resources and support.
+
+#### Contact
+For inquiries and feedback, please contact
+
+Happy designing!
