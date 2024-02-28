@@ -2,8 +2,8 @@
 
 ## Overview
 
-### Welcome to the Parametric Tower project, a creative exploration using Rhino3D and Grasshopper to design a dynamic and responsive architectural structure. This repository contains the source code, documentation, and resources related to the project.
-
+### *Parametric Tower project, a creative exploration using Rhino3D and Grasshopper to design a dynamic and responsive architectural structure. This repository contains the source code, documentation, and resources related to the project.*
+*
 #### Features
 
 - **Parametric Design:** Leverage the power of Rhino3D and Grasshopper for intricate control over design parameters.
